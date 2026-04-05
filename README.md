@@ -185,16 +185,36 @@ For macOS users:
 
 ## Repository Layout
 
-- `README.md` - Main repository documentation
-- `Assignment1-Animation/` - Short animation project (Group)
-  - `docs/` - Storyboard, keyframing, and final report PDFs
-  - `animation/` - Final rendered video
-  - `blender-files/` - Blender project files
-- `Assignment2-Modeling/` - Mesh modeling project (Individual)
-  - `src/` - Source code (main.cpp, mesh.h, mesh.cpp)
-  - `Lab_01.sln` - Visual Studio solution file
-  - `docs/` - Assignment specification
-  - `test-files/` - Sample OBJ files for testing
+```
+CS3242-3D-Modeling-and-Animation/
+│
+├── README.md
+├── LICENSE (可选)
+│
+├── Assignment1-Animation/
+│   ├── README.md
+│   ├── docs/
+│   │   ├── CS3242_StoryBoard.pdf
+│   │   ├── CS3242_Assignment_Major_Frames.pdf
+│   │   └── CS3242_Animation_Final_Report.pdf
+│   ├── animation/
+│   │   └── (视频文件 - 看下面的大文件处理)
+│   └── blender-files/
+│       └── (你的 .blend 文件 - 看下面的大文件处理)
+│
+└── Assignment2-Modeling/
+    ├── README.md
+    ├── src/
+    │   ├── main.cpp
+    │   ├── mesh.h
+    │   └── mesh.cpp
+    ├── Lab_01.sln
+    ├── docs/
+    │   └── CS3242AssignmentModelingV2_0.pdf
+    └── test-files/
+        ├── cat.obj
+        └── Alucy.obj
+```
 
 ## Contributing
 

@@ -189,7 +189,6 @@ For macOS users:
 CS3242-3D-Modeling-and-Animation/
 │
 ├── README.md
-├── LICENSE (可选)
 │
 ├── Assignment1-Animation/
 │   ├── README.md

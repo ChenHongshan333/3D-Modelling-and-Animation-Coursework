@@ -199,7 +199,7 @@ CS3242-3D-Modeling-and-Animation/
 │   ├── animation/
 │   │   └── assignment1.mp4
 │   └── blender-files/
-|       ├── Animatioh_scene1.blend
+|       ├── Animation_scene1.blend
 │       └── pacman/
 |           ├── pacman.blend
 │           └── pacman.obj

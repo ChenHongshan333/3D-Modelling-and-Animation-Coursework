@@ -198,9 +198,12 @@ CS3242-3D-Modeling-and-Animation/
 │   │   ├── CS3242_Assignment_Major_Frames.pdf
 │   │   └── CS3242_Animation_Final_Report.pdf
 │   ├── animation/
-│   │   └── (视频文件 - 看下面的大文件处理)
+│   │   └── assignment1.mp4
 │   └── blender-files/
-│       └── (你的 .blend 文件 - 看下面的大文件处理)
+|       ├── Animatioh_scene1.blend
+│       └── pacman/
+|           ├── pacman.blend
+│           └── pacman.obj
 │
 └── Assignment2-Modeling/
     ├── README.md
